@@ -7,7 +7,11 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/><img alt="jQuery" src="https://img.shields.io/badge/jQuery-FAA523?style=for-the-badge&logo=jquery&logoColor=white"/> <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 
 #### Robotics
-<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white"/> 
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+#### Version Control
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
 #### Databases
 <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
